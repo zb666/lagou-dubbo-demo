@@ -1,0 +1,5 @@
+# Project exclude paths
+/lagou-dubbo-dao/target/
+/lagou-dubbo-entity/target/
+/lagou-dubbo-interface/target/
+/lagou-dubbo-web/target/
